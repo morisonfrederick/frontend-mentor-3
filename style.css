@@ -58,7 +58,7 @@ body {
 }
 .tabs {
   height: 30px;
-  width: 150px;
+  width: 250px;
   background-color: var(--Grey700);
   margin-top: 10px;
   display: flex;
